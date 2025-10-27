@@ -1,1 +1,2 @@
-data=input("enter ypur name";)
+data=input("enter your name")
+hi 
